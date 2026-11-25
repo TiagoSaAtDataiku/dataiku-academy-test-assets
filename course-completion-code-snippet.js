@@ -1,0 +1,1 @@
+if (typeof(skilljarCourse) !== 'undefined') {analytics.track('Course Completed',{'course_id':skilljarCourse.publishedCourseId,'course_title':skilljarCourse.title})}
